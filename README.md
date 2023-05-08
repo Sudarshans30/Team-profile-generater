@@ -15,7 +15,7 @@ SO THAT I have quick access to their emails and GitHub profiles
     
 ### License
 
-    
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 
     
@@ -34,8 +34,7 @@ Sudarshan Singh
   
     
 ### where to find it 
-
-    
+https://github.com/Sudarshans30/Team-profile-generater    
 
  
  ### Demo
